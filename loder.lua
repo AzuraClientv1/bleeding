@@ -185,7 +185,7 @@ end
 
 -- Window
 
-local Actyrn = UiLib:CreateWindow("Bleeing", Vector2.new(500, 600), Enum.KeyCode.RightShift)
+local Actyrn = UiLib:CreateWindow("bleeding (LITE)", Vector2.new(500, 600), Enum.KeyCode.RightShift)
 
 -- Tabs
 
@@ -848,5 +848,3 @@ AntiCheatNamecall = hookmetamethod(game, "__namecall", newcclosure(function(Self
 
 	return AntiCheatNamecall(Self, ...)
 end))
-
-AZURe
