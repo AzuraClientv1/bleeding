@@ -7,7 +7,7 @@ getnamecallmethod = getnamecallmethod
 
 -- Variables
 
-local UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/AzuraClientv1/bleeding/main/UiLib.lua"))()
+local UiLib = loadstring(game:HttpGet("https://pastebin.com/raw/JFzC7iXS"))()
 
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
